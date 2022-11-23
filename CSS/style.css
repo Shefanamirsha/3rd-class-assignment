@@ -38,6 +38,9 @@ a, a:hover
     left: 30%; */
     /* transform: translate(100%, 50%);
     z-index: 1; */
+li {
+    padding-bottom: 2px;
+}
 
 .fb-share{
     width: 180px;
@@ -119,7 +122,4 @@ a, a:hover
     background: #e6e6e6;
     color: black;
     border: 1px solid #000;
-}
-li {
-    padding-bottom: 2px;
 }
