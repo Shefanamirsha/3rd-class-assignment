@@ -120,3 +120,6 @@ a, a:hover
     color: black;
     border: 1px solid #000;
 }
+li {
+    padding-bottom: 2px;
+}
